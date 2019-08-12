@@ -8,4 +8,8 @@ SANTOS!!!
 mudança
 
 
+<<<<<<< HEAD
 ajuste no branch master
+=======
+nova linha branch release 1
+>>>>>>> release
